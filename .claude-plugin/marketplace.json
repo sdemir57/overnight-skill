@@ -1,0 +1,11 @@
+{
+  "name": "overnight",
+  "owner": { "name": "sdemir57" },
+  "plugins": [
+    {
+      "name": "overnight",
+      "source": "./",
+      "description": "Say /overnight, go to bed. Wake up to finished work and a report."
+    }
+  ]
+}

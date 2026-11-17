@@ -1,0 +1,10 @@
+{
+  "name": "overnight",
+  "description": "Say /overnight, go to bed. Claude asks for everything up front, works alone until morning, escalates when stuck, respects your usage window, and leaves a report.",
+  "version": "1.0.0",
+  "author": { "name": "sdemir57" },
+  "homepage": "https://github.com/sdemir57/overnight-skill",
+  "repository": "https://github.com/sdemir57/overnight-skill",
+  "license": "MIT",
+  "keywords": ["claude-code", "skill", "autonomous", "overnight", "agents"]
+}
